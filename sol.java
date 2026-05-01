@@ -1,7 +1,7 @@
 class Solution {
      public boolean isSameTree(TreeNode p, TreeNode q) {
         // If both nodes are null, trees match at this branch
-        if (p == null && q == null) {
+         if (p == null && q == null) {
             return true;
         }
 
